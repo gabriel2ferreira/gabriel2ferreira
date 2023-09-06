@@ -1,0 +1,5994 @@
+<?xml version="1.0" standalone="yes"?>
+<MaterialDB xmlns="http://tempuri.org/MaterialDB.xsd">
+  <Materials>
+    <id>3d3e2cff-f117-4df7-a7c3-09e4fd62ce44</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d22539c7-dd4a-41b6-b004-c5de2f5fdea2</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Paperboard</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different thickness paperboards, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>57137551-3ed5-4d9f-9cd5-50fa92007b2a</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Paperboard</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>It need to be adjusted based on different thickness paperboards, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d00cbacc-a032-4122-bc28-7326875a808f</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>38db0905-be2c-4687-8f9d-f45a8ef6ddb9</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>250 g/mq</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>05d3ec8c-9b5f-465c-9c9b-abfc5c363612</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>KT Board (dark color)</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>600</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! It need to be adjusted based on different colors. There will be black edges after cutting.</Remarks>
+  </Materials>
+  <Materials>
+    <id>a9358fb5-a97f-4c1c-82bc-def9f9de67da</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>0.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Cannot cut Non-woven in white color. It need to be adjusted based on different colors. There will be black edges after cutting</Remarks>
+  </Materials>
+  <Materials>
+    <id>86f0732e-f7ad-4521-bd29-4ecaff41c8cc</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some cotton blended fabrics may be melt. It need to be adjusted based on different colors. There will be black edges after cutting</Remarks>
+  </Materials>
+  <Materials>
+    <id>02374c7b-a1f9-4989-b691-d5fc1d0ee693</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different leathers, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>100a3369-09bd-4a02-96aa-6425a2efdaa9</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different leathers, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>0e4d66f0-ff9c-4bd9-b783-50e87f73c342</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! Some plastic sheets may be melt. It need to be adjusted based on different colors, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>262f124e-01ac-428e-89c2-aceb9e0a76c7</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>8556bccb-da77-4d28-afb8-1c037bb62cb4</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! Cannot engrave transparent Acrylic directly, need to paste Kraft paper film on the surface.</Remarks>
+  </Materials>
+  <Materials>
+    <id>59b2af01-4f0e-469e-8708-d0f9d21fcdf3</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Engraved on powder coating. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>86450e5e-9e6a-4679-9a83-6a411ea947f5</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Paint Sprayed Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Engraved on Paint layer. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>8702efe1-2b35-4508-9fed-fc1b0c6505c2</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It's the surface color turned to be other color. Need to use Marker to black the finishing first. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>3d07cee1-e129-4dfd-ac2b-2d945df2b651</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU7W (1.5W)</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It's the surface color turned to be other color. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>a46e8208-5ef2-4cef-b79b-dcc09720a289</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>0c88ef11-670c-4ffb-ab76-351f893d999a</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>1.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6b0151a7-ac03-4d5f-bcb3-4af3db7d5534</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>3</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>bdc160a7-8fde-4d8e-8894-8451aea30853</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Paperboard</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different thickness paperboards, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>ab1a18ec-a9d7-4e80-8976-277c35f56590</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Paperboard</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>4</Cycles>
+    <Remarks>It need to be adjusted based on different thickness paperboards, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>65469d2b-2f96-4b4f-b473-425d5d1c4049</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6d4e78b6-72ea-4436-a134-f668b2b5e0b7</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>250 g/mq</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>800</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b2ef2f8f-5254-45b1-9a5b-21632b2158d0</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>KT Board (dark color)</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! It need to be adjusted based on different colors. There will be black edges after cutting.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b22ede75-6b22-4b66-ba39-d4b24f8d07bf</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some cotton blended fabrics may be melt. It need to be adjusted based on different colors. There will be black edges after cutting.</Remarks>
+  </Materials>
+  <Materials>
+    <id>c765a10b-04e4-482f-baea-7e99f5c41d30</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different leathers, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>9ada632a-07e3-4e46-ba91-3bf77ae5418f</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different leathers, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>188fa707-324f-4ccc-bc3b-3403db8efda0</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt. It need to be adjusted based on different colors,different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>2b7f0cc3-06f7-4d94-91f9-d4a30aaf2468</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>3f52bce2-1699-4d34-98f0-2fd4c4f26423</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! Cannot engrave transparent Acrylic directly, need to paste Kraft paper film on the surface.</Remarks>
+  </Materials>
+  <Materials>
+    <id>9f10aef9-84be-4931-90a9-15cbea1a0052</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Engraved on powder coating. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6ab9e617-76ba-4fd3-baff-4060f8970faf</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Paint Sprayed Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Engraved on powder coating. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d1945d41-e5ef-4446-be81-87a50365ad6f</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It's the surface color turned to be other color. Need to use Marker to balck the finishing first. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>3fbf5ab4-30e2-40be-afc2-16911f4b4eeb</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It's the surface color turned to be other color. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6dbab6d4-542a-4212-828d-ea80a422b816</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The surface should be coated with acrylic dye heat transfer film.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d1560995-a870-4fe8-83b5-5dadbff8fbdd</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU15W (4.5W)</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The surface should be painted black by Marker Pen.</Remarks>
+  </Materials>
+  <Materials>
+    <id>c739e3ee-c38b-47a7-b1ff-79d02928231e</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>a9254766-dc59-457e-8071-846a61b02e53</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>1.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>180109df-7de5-42b8-b762-a3a99da8c4d9</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Plywood</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>c644379f-f7fc-4c43-a413-94f2899b11db</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Paperboard</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different thickness paperboards, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>8ecff531-c5d4-4202-9448-e300429f99e2</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Paperboard</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>3</Cycles>
+    <Remarks>It need to be adjusted based on different thickness paperboards, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>9423348a-55db-4b0e-ab1e-68079740ca2a</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>f7368a6e-3155-4c56-8294-3aa9e640ca20</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>KT Board (dark color)</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! It need to be adjusted based on different colors. There will be black edges after cutting.</Remarks>
+  </Materials>
+  <Materials>
+    <id>c033ab40-7a52-4b9f-88fc-8b5e636a8704</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>0.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1600</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different colors. There will be black edges after cutting</Remarks>
+  </Materials>
+  <Materials>
+    <id>ef98a292-1b2b-4be9-88c1-26de37c32fc2</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some cotton blended fabrics may be melt. It need to be adjusted based on different colors. There will be black edges after cutting</Remarks>
+  </Materials>
+  <Materials>
+    <id>94d6b6ae-4bed-4923-a1c4-bba1285862fb</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different leathers, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>c7bf2bcf-6fa3-42ff-8975-4cd418c7963f</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different leathers, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d15db21e-6d8a-4460-b57b-c079b0ca7d0e</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt. It need to be adjusted based on different colors,different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6f669bad-402f-4f98-925e-8e48b9496748</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods, different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b0240e9c-70b3-4617-ad7d-4187244fee1d</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases! Cannot engrave transparent Acrylic directly, need to paste Kraft paper film on the surface.</Remarks>
+  </Materials>
+  <Materials>
+    <id>7b62a276-944b-4ca7-bf1d-731c0e9b9734</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Engraved on powder coating. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>a190a0b1-8418-44e2-a756-4bafc8c467f1</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Paint Sprayed Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Engraved on powder coating. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>96ce9e1e-600e-4028-b81d-0e6fbae7deea</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It's the surface color turned to be other color. Need to use Marker to balck the finishing first. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>76079fbb-f472-4945-9488-48f1275d6732</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It's the surface color turned to be other color. It need to be adjusted based on different finishings and colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>14283b36-627f-4d91-81a0-5e2b6e0440a1</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The surface should be coated with acrylic dye heat transfer film.</Remarks>
+  </Materials>
+  <Materials>
+    <id>52b6d808-1e28-4a4b-898d-4b3674dd1f31</id>
+    <Visible>true</Visible>
+    <Model>Ortur LU20W (5.5W)</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The surface should be painted black by Marker Pen.</Remarks>
+  </Materials>
+  <Materials>
+    <id>bf79a36c-aaf2-4944-bda0-e2aa66cafc0d</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>28</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>2a5f8d01-8030-44ac-b3b3-5ae9ff8d888a</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>28</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>bed6b818-8961-4773-bba4-184d4fc181d0</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>28</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>e79b8428-b563-434c-8a9b-fb44a510c29b</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>28</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>ae5c05c8-cf0f-4109-861f-5c0ac9f428a7</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>18</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>efd1be96-741a-4210-b417-3e1128564dd8</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Mirrors</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>28</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>a7f94b98-150c-409a-928d-ae6c95db259d</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Aluminium alloy</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>13265162-783e-42d7-a5b5-325d0e3624a1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Basswood</Material>
+    <Thickness>1.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>a502639d-5ea6-4e22-b7b6-2eeb9d48f53a</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Hardwood</Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>15</Cycles>
+  </Materials>
+  <Materials>
+    <id>4ec26caf-4df7-453d-95d5-3b7795f69413</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>1.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>5309a65a-1e45-4a3f-9858-52cc7d298953</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 20W (5W)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>2.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>12</Cycles>
+  </Materials>
+  <Materials>
+    <id>57565df1-c0fd-4b43-97bd-e027985fd309</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>ae2a08dc-0318-4674-89ae-48f5f22c6b05</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>616a8add-ad2a-46eb-a903-f37107cfa3db</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>c8b95ef9-a63f-4b01-b7cb-727661f6057f</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>69d9bdcf-8bec-4cb1-9b71-756a165d2acd</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>f8f5c283-f2cf-4cf4-bae4-e83cedb38482</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Mirrors</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>8e7cd000-6c1f-4616-ab7d-9824b615e01e</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>50a69914-ac1c-4742-b3a4-5f75163f3f4d</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>3</Cycles>
+    <Remarks>suggested 15 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>5b86167d-4e8b-4eb6-8bf9-8b21926cbcf7</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Basswood</Material>
+    <Thickness>2.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>450</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>c309aa0c-bc1a-405e-8ede-80d3b2000fda</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Hardwood</Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>a3f183a6-a426-4463-8572-e86f24907a04</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Bamboo</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>460</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>fb246fdd-0a51-47c1-815b-5c575c360983</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Acrylic</Material>
+    <Thickness>2.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>310</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>3ce77e7d-b71f-4330-92d0-5eeb76c0d0d1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack A5 PRO</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>0.2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>b995b754-eed2-4b26-a48f-d01818cff749</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>b3b16daa-77f9-463b-ba52-2b46a637ba3b</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>f4e347e7-f15d-45b5-b833-efe61a389c60</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Mirrors (back)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>35</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>On the back of Mirrors</Remarks>
+  </Materials>
+  <Materials>
+    <id>8605ad4c-4634-41a2-925f-ee56091f1131</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>25</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>0774290d-2c4f-44e3-9f3f-abb88feb4023</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>better on dark colors</Remarks>
+  </Materials>
+  <Materials>
+    <id>57cc24d5-3b2c-4842-a415-8b4bd372ad68</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Acrylic(dark)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>better on dark colors</Remarks>
+  </Materials>
+  <Materials>
+    <id>1ebfb086-41ae-4c8a-b11f-6b7196d606b6</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>better on dark colors</Remarks>
+  </Materials>
+  <Materials>
+    <id>067dee6e-99d4-4503-9244-7d0607b2c9e9</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>6</Cycles>
+    <Remarks>reference value, adjust according to the actual engraving situation</Remarks>
+  </Materials>
+  <Materials>
+    <id>9d9937e5-1cef-482d-9536-2507d8eaaaca</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Acrylic (dark)</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>4</Cycles>
+    <Remarks>reference value, adjust according to the actual engraving situation</Remarks>
+  </Materials>
+  <Materials>
+    <id>950fcbf3-aec8-4109-968d-b91338992bcb</id>
+    <Visible>true</Visible>
+    <Model>ScuplFun S6</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>800</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>a7565df1-c0fd-4b43-97bd-e027985fd309</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>be2a08dc-0318-4674-89ae-48f5f22c6b05</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>6a6a8add-ad2a-46eb-a903-f37107cfa3db</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>c8c95ef9-a63f-4b01-b7cb-727661f6057f</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>69d9ad1f-8bec-4cb1-9b71-756a165d2acd</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>f8f5c243-f2cf-4cf4-bae4-e83cedb38482</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Mirrors</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>8e7cd010-6c1f-4616-ab7d-9824b615e01e</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>50a66914-ac1c-4742-b3a4-5f75163f3f4d</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>3</Cycles>
+    <Remarks>suggested 15 lines/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>5b86164d-4e8b-4eb6-8bf9-8b21926cbcf7</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Basswood</Material>
+    <Thickness>2.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>450</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>c309ab0c-bc1a-405e-8ede-80d3b2000fda</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Hardwood</Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>a3f183b6-a426-4463-8572-e86f24907a04</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Bamboo</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>460</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>fb246add-0a51-47c1-815b-5c575c360983</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Acrylic</Material>
+    <Thickness>2.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>310</Speed>
+    <Cycles>3</Cycles>
+  </Materials>
+  <Materials>
+    <id>3ce77a7d-b71f-4330-92d0-5eeb76c0d0d1</id>
+    <Visible>true</Visible>
+    <Model>NASUM A5 PRO</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>0.2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>187243c2-0ecc-48af-b6ee-1cb8085ece3c</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Wood board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>68af1ed6-2f0f-4df5-81c4-cbede543de7e</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>be3810f5-8ae6-4004-a4e0-eb41d61892f3</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Solid wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>c77f8126-b73d-4c42-a871-db71822ffe74</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>4500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>eb57d92b-ceba-46d3-9298-6e40d80f63aa</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Surface needs to be painted black</Remarks>
+  </Materials>
+  <Materials>
+    <id>8d6dd2d1-8320-439f-ba1b-fee7f8493416</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Ceramic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Surface needs to be painted black</Remarks>
+  </Materials>
+  <Materials>
+    <id>52f84091-3a3d-41c9-aabb-48e8b2371a31</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Transparent acrylic needs to be painted black</Remarks>
+  </Materials>
+  <Materials>
+    <id>8b8ed39b-3722-4a8f-9483-09456fe97bb2</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>600</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>3f2966d6-ef4b-4248-80bf-f6093bef1027</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Anodized metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>dca85cf9-0984-493f-af26-deee8ad316f5</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Fabric</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>aa0b3acc-5822-46b3-9986-293752957116</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Plywood</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>5e267606-bc51-4ae4-b948-3e2d8796e0ad</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Plywood</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>250</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>112023bf-078d-4642-bc69-9a02e525b6a4</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Plywood</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>97cf0865-a2ba-4caa-8bf0-882b3fc581db</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Plywood</Material>
+    <Thickness>7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>90</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>8a43e969-f37b-4139-95d2-93820fe8758c</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Cardboard</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>584f9863-ae20-4875-be13-3fda4b894af0</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Leather</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>afc54f83-e0fd-4913-9108-5a83256ff382</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 10W</Model>
+    <Material>Fabric</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>187243c2-4ecc-48af-b6ee-1cb8085ece3c</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Wood board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>68af1ed6-2f0f-4df5-81c4-cbfde543de7e</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>be3810f5-8ae6-4004-a4e0-eb41b61892f3</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Solid wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>c77f3126-b73d-4c42-a871-db71822ffe74</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>eb57d92b-ceba-46d3-9298-6e40d80a63aa</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Surface needs to be painted black</Remarks>
+  </Materials>
+  <Materials>
+    <id>8d6dd2d1-8310-439f-ba1b-fee7f8493416</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Ceramic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Surface needs to be painted black</Remarks>
+  </Materials>
+  <Materials>
+    <id>52f84091-3a3d-41c9-aabb-48e8b3371a31</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Transparent acrylic needs to be painted black</Remarks>
+  </Materials>
+  <Materials>
+    <id>8b8ed39b-3722-4a8f-9483-09456ae97bb2</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>3f2166d6-ef4b-4248-80bf-f6093bef1027</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Anodized metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>800</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>dca15cf9-0984-493f-af26-deee8ad316f5</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Fabric</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>2500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>aa0b3acc-5812-46b3-9986-293752957116</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Plywood</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>180</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>5e261606-bc51-4ae4-b948-3e2d8796e0ad</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Plywood</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>120</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>122023bf-078d-4642-bc69-9a02e525b6a4</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Plywood</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>90</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>8a43a969-f37b-4139-95d2-93820fe8758c</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Cardboard</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>581f9863-ae20-4875-be13-3fda4b894af0</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Leather</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>afc51f83-e0fd-4913-9108-5a83256ff382</id>
+    <Visible>true</Visible>
+    <Model>Comgo Z1 5W</Model>
+    <Material>Fabric</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>45720239-5e21-4b99-b0ec-5676ffdcdfd6</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>e57b38af-7218-4f0b-aa90-bd96f820a56b</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>117a806e-557d-429a-a55b-d30136b25d06</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>6507eea0-038d-46b0-a2db-b88189f4f227</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Stainless steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>color with dark paint before engrave</Remarks>
+  </Materials>
+  <Materials>
+    <id>9cb8de2f-f214-4601-8e94-b1a7543e2a42</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Basswood</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>4e9b7df8-6b6f-4f8d-b11f-15cc5aa4a072</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Plywood</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>7a6f61bb-f941-4b55-b681-3a7a6752f1ee</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Pine</Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>120</Speed>
+    <Cycles>2</Cycles>
+  </Materials>
+  <Materials>
+    <id>3d3de832-f608-4d5a-9d5e-07a40eba30d6</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Acrylic</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>120</Speed>
+    <Cycles>2</Cycles>
+  </Materials>
+  <Materials>
+    <id>9b9c2c82-2c0f-4de1-b454-09ce75ae4b7a</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>dark color. It need to be adjusted based on different colors</Remarks>
+  </Materials>
+  <Materials>
+    <id>da7ce8f7-7c65-4c21-b5d2-72bc4ee83d70</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Cotton Cloth</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>white color. It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>8f530785-347e-40f1-9228-e37d28062f5b</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>0f597807-329c-4221-bd97-362cb152a669</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>dark color.It need to be adjusted based different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>af28eae5-7c61-43fb-a9c5-49ec05f1871d</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>It need to be adjusted based on different woods.</Remarks>
+  </Materials>
+  <Materials>
+    <id>f67e518e-a29d-4480-ae1a-2b11442d73af</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>color with dark paint before engrave.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6dbcb6b7-b769-4213-b614-83fb1b1b2edf</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Paperboard</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>2</Cycles>
+  </Materials>
+  <Materials>
+    <id>b8196a5d-d828-4b29-8086-54ffc6639a2c</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>0.15mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>23a3db62-ab31-4ef9-a981-4cac69c4ea93</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>KT Board</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>white color.It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6246e54e-2b3a-482f-b683-a2532c96bf96</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Non-woven fabrics</Material>
+    <Thickness>0.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>800</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>white color.It need to be adjusted based on different colors.</Remarks>
+  </Materials>
+  <Materials>
+    <id>9535e8c9-f0e2-4898-85ab-c98fdb309d34</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Cotton Cloth</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>60767cbd-dbe9-44ec-a1ec-96ecbd799d80</id>
+    <Visible>true</Visible>
+    <Model>Longer RAY5 5W</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>37160f9c-943a-4d09-b824-cfc002d868d7</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>38f8a352-220c-4df0-8460-0e0d52b0b03a</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>de58921f-8aed-473b-847e-e62b9b82081f</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>49b9ff5c-cbd6-4219-a546-d0910337f5b0</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>43650bf8-1e5f-4c87-b87d-1726f82993c3</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>c2996a24-04cf-4faa-a725-aad114790e8b</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Mirrors</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>25</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>9179afa5-b778-4a1b-9887-25062f6478a1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>18</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>e5f198f9-d287-4040-b46a-2f8f91602cc0</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Ceramics</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Color with dark paint before engrave</Remarks>
+  </Materials>
+  <Materials>
+    <id>ae00b641-8021-4d97-9e29-0529c5e7fdf1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Color with dark paint before engrave</Remarks>
+  </Materials>
+  <Materials>
+    <id>14ef7f36-7b55-418a-9814-039e14157dd6</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Denim</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>447bfbcd-986c-43a5-bba9-1288f10b6343</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Color with dark paint before engrave</Remarks>
+  </Materials>
+  <Materials>
+    <id>041c0454-8e51-413f-99c5-46557200c4d6</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Basswood</Material>
+    <Thickness>2.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>2</Cycles>
+  </Materials>
+  <Materials>
+    <id>2a3ce845-c598-4df3-bc38-0dbe864b0c23</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Hardwood</Material>
+    <Thickness>5.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>250</Speed>
+    <Cycles>2</Cycles>
+  </Materials>
+  <Materials>
+    <id>3f47f3b0-114b-4757-b5a7-87553f277126</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>1.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1400</Speed>
+    <Cycles>2</Cycles>
+  </Materials>
+  <Materials>
+    <id>bf6e362d-c1de-413e-9126-795dcbaadc87</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Acrylic</Material>
+    <Thickness>2.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>180</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>5e03f4db-c5f2-4199-ad6e-a5f419cbb599</id>
+    <Visible>true</Visible>
+    <Model>Atomstack M50 10W (A10/S10/X7)</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>0.2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>b237a8c3-cf51-4a48-907d-6d036f42d39a</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>539df328-4cc1-4c06-b9a2-b36457d78444</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>6d1d4b36-b1c3-46bf-955d-b2dd8ef1d633</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Mirrors (back)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>On the back of mirrors</Remarks>
+  </Materials>
+  <Materials>
+    <id>4d42b0ee-b480-4250-9a14-78558679bdd6</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>85d643c8-a4ab-4f71-bb79-c72c0adeefa7</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>900</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Preferably dark color</Remarks>
+  </Materials>
+  <Materials>
+    <id>9aa2565c-a6df-4cfe-a10d-f40ee3451634</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Acrilyc (dark)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Preferably dark color</Remarks>
+  </Materials>
+  <Materials>
+    <id>d5060d33-eb20-4ebc-b5c2-10bb995a9ad3</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Preferably dark color</Remarks>
+  </Materials>
+  <Materials>
+    <id>280a8bd7-7d89-4558-b90f-17f75986d55a</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Solid Wood</Material>
+    <Thickness>3.0mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>900</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>Reference value, adjust according to the actual engraving situation</Remarks>
+  </Materials>
+  <Materials>
+    <id>0bbefeca-3942-4e2a-8efa-8bf228d187cc</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Acrylic</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>Reference value, adjust according to the actual engraving situation</Remarks>
+  </Materials>
+  <Materials>
+    <id>09ceb759-ecc2-4f10-912a-b1f6989a3102</id>
+    <Visible>true</Visible>
+    <Model>SculpFun S9</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>0.2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>50</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+  </Materials>
+  <Materials>
+    <id>f2218076-ba1d-472b-82f4-e50ac52414ca</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>15daf9b7-4b6c-4fe5-b936-f2da95dc2f8b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d24ead48-6ee6-41b7-a1fa-b1a83065d371</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6f626059-737d-4817-9ca5-300988e1f4aa</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>7000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>35828c08-ebc1-4b57-bbc7-ee777b4524bc</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>115ed8c2-df95-4a1e-ab04-acf346677510</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b7a20b79-f9da-4f44-a9e2-e72266fb5321</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>4e8048b7-5a77-4e82-9a52-1ecbf7c99eaf</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>f3ee58c2-b0f3-42e4-a8e1-8376a9b3de61</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Basswood</Material>
+    <Thickness>1.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>f856b73f-74e3-4fff-b5e7-fcfa0ad63787</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Hardwood</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>779b5a1a-d045-4e5a-a998-bcb6f2e98f86</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Acrylic</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>46a329f2-a170-47bc-87b7-8f3670a68215</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a33093c2-ecc2-4968-9226-15f55bf2ce76</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>2</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3f83cd9d-86d3-4a70-9e75-cad7502e3036</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>0e54f421-3a32-424a-838b-7ea16a052b81</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-25</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>82e27297-5979-468a-a956-e715d6b78cef</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>bdf6208e-20b3-482e-b03f-5bfa1646ed97</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>8368f2be-b6a0-408a-98af-0d539c51ba00</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fc75d6e5-bb8f-4f4d-a6ac-149dad4bb11f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d5f18e69-8ba6-4223-9203-635442f5a22a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5d0e6495-7410-4534-b0e3-ee003089b69b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>27686907-3656-48ba-b08d-53e31e1d6d6d</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>eabb531b-c759-4a11-8f41-e59fba263f0e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>ec885f6b-0730-45eb-bb66-2db4bfdff198</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Basswood</Material>
+    <Thickness>1.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>ceafcd44-f50e-48fa-aff5-9504d8fa0998</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Hardwood</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>70</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d23f6b9b-e80d-4ab8-bec4-62c19183f09f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b3fed0db-a19b-4ad2-aed0-9847aad1ff6e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3d04138d-5e90-40f3-b121-b84cacc58e4c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>2</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e3f238cd-fd17-4430-a811-3c3802aa278a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>94b1d965-e72b-4da9-94f5-e1e604150fa8</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TT-50</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>2e6247ea-d568-442e-b33c-dcd18f7f7647</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>90281669-424a-4054-866b-d0c5cc7930c8</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>2fc261a5-b3f9-4925-ac8a-307ca4f88c79</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f2c87ccd-ecc7-4e29-917c-4dd38f322d8c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>7000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>cae916d1-5c1d-423c-9594-88ff80a02fc4</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0844f69a-4285-4cbe-b62b-b666ee1249ae</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6a49c038-47d2-4c32-b891-2bb50f2259e0</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6f62ca4c-5055-4e44-ad74-c0484d48641f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d7f86b8a-aa56-4d58-b912-51c31bb06293</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Basswood</Material>
+    <Thickness>1.8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>a2368ee4-5f87-4fb5-9b78-5e1886b74c98</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Hardwood</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>603cd4c7-e9b7-42cd-b191-69742fbf1190</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Acrylic</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>c8262fd5-ccba-4e7b-8458-03553ed1ed4a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>1mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2ab83012-8d37-4e80-9102-c235a763070d</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>2</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a8ef8db3-7721-4a21-bbc9-f853c8b46c1d</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>2a001258-303c-42c0-9e35-867cc1942e4b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-25</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>d3a6eb54-ca58-4224-9eb1-3b7b83956ba4</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b39a4012-8abf-4f42-81c7-0f51927fae86</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>0fe9bc4b-ce08-4bc4-8711-7b197466e786</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f43753c6-c1f0-4d12-b3fb-bd8335de2a2c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>01d78136-56c8-4dc9-8292-43fdc5a49394</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>abd33192-d847-4438-922c-7237473eff68</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d7001fe7-f33f-4469-9c59-575fa932dd1e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>41387c37-d606-4005-99b3-986fff4534d0</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>7b17100e-d06c-4b3f-9bd1-f254db67cde4</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d977ba9b-ff27-4372-9fae-2aab37b7d78f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>829470c9-e3ad-4da0-82e9-04045ef721c6</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>365930ce-b12a-44c7-98b3-c43c1e078938</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm.Stainless steel will bend and warp when heated.</Remarks>
+  </Materials>
+  <Materials>
+    <id>2860a392-9324-4cc8-9217-8bc1fc463a3c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Basswood</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>820c3c2d-09aa-45fc-a077-33c41461f862</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Hardwood</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>e3c94dc1-1972-4ced-8f07-cde3ebadda29</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>18d57b1d-4f7d-484f-b219-a55ad1142d4b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>44ccf523-6e1d-456a-83a4-1fd68b0e9ba3</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>1d37e618-9d8a-4d1e-83e2-9c7f1b56919b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>4318371a-381c-4836-827a-9eedd7ae4110</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TTS-55</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>73df0dfd-6b1f-4251-b76c-404778e97f41</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>fd0bdc6d-3221-4549-8e87-98c256715a41</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>a48edeef-1f24-45f6-b31c-7133f2091d27</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>780111ae-705b-48d2-80db-5b741727bfc6</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>dfd1f9dd-b11f-4015-8439-49b03a528b73</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>96533b7c-c6b8-4284-82e9-6eedcde88d5c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>c0a3bbd5-b3b6-4ec3-93fe-11847fc5028f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e9fc0447-7387-43df-9ef6-f952fc780352</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>52bb2e6f-e5d6-4395-b273-eef8a3bf979f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>79c25b95-bed4-4505-b003-92c4361af8f0</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f37c5ff2-5f4d-4a53-b484-d36ea2452f58</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>757c571c-c609-4a42-9db0-f50db26772e2</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm.Stainless steel will bend and warp when heated.</Remarks>
+  </Materials>
+  <Materials>
+    <id>1da88a36-6c92-431e-af18-eb86ce52f14d</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Basswood</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>23fe8473-0a12-4ba4-9042-28c8fa28e342</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Hardwood</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>e57bfe54-99d2-4c8d-9421-953fa46d8d74</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>51938d83-0419-4524-9961-2f727b906a07</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>99a42e9f-809d-43d9-b3f7-303048316e5e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5880ece2-521c-41ab-8b00-6919c7b9875d</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>cc7b582e-a9bf-4013-af8d-fe89cfda4ce0</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-55</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>9005d5c1-05e8-4a24-869b-ca5cc18111ee</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>1e558a2a-04d4-4182-b18f-08f395bb5350</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6c0050ca-76be-45f1-a93a-486ccdd38590</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8a99c411-9709-4214-9a13-922adb096bae</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>135c174c-5868-493c-b732-2e6c3204a82c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>c74c6a6a-03bb-4921-9870-07c9b19aa474</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fe1c6f89-9d0b-4611-84d2-2b20eb3d83cb</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>55abaf45-dc93-4662-a3d3-bb5abebef16a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>2d86de33-57b9-4a51-81a5-298ef06eb943</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>c2601812-8a20-4ff6-8ff8-9d7670823d91</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a10bb8e5-182d-40ee-ad81-11dcc496db51</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>51b7362f-14ad-4662-8798-d07896cd49e3</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm.Stainless steel will bend and warp when heated.</Remarks>
+  </Materials>
+  <Materials>
+    <id>4c1c7077-bdaa-4d08-a0b9-7da590e8a6b7</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Basswood</Material>
+    <Thickness>7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>df663262-dde0-4839-81bc-99df50caa881</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Hardwood</Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>898f5b41-c6eb-4021-92d5-2be84866d50b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Bamboo</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>1babd78a-6422-45c4-ba55-e7fec50109c9</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque.</Remarks>
+  </Materials>
+  <Materials>
+    <id>7eb06438-1d6d-455f-9b57-fb8f41e34683</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>1f3f6513-ba07-4102-bbcb-4ed4ea6a5422</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>7f4ce7cc-4691-4ef7-b8a7-1861816717eb</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>50617410-13cd-40aa-8d1d-90af94496ccf</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS3-10</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>e89d89ac-5f92-47f0-a604-87a22d447f0f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>f8198b5e-1845-4d53-9fa6-c438e455c21a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>d77a4c70-d335-460e-ab05-49ff88587be7</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b760d0bd-5a4f-4e0b-99c1-7bce7745f5ed</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque</Remarks>
+  </Materials>
+  <Materials>
+    <id>8d02bde1-e7ee-4a51-8d51-56e31b1a5d7e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>379ee76b-192c-447b-933a-d2a7783268ba</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0b7c65b7-40d8-47dd-9260-6ea70f1a4d7b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>4000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e2d5d8c2-5e01-4562-a004-3d33f9ee2a1a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>dcf3e951-426c-43e2-8152-0163780f700f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>42ccfe8e-87ff-4bc9-b7af-a1f4df880b5f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>5000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0ef889fe-cce3-4d80-8222-9ffea27a312c</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>eeb2bbe8-f5e1-4454-b983-4dfdf6e144af</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm.Stainless steel will bend and warp when heated.8/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>46522b5c-86ee-4e83-96ca-e59cfc9194f2</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Basswood</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>db759e11-b9db-4368-a338-98632257b092</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Hardwood</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>714a7858-8055-4247-991b-8f8f92906d4d</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>2</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque</Remarks>
+  </Materials>
+  <Materials>
+    <id>610900e4-15b9-4258-8316-745a26c1b83e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>490a93a3-039b-421c-82c5-08c41497c3ce</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>700</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6fc1ecb5-95e0-4afc-95a5-a6348a899fe1</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>cbb56d8d-d405-4d40-9cd2-32d32d75ee38</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-55</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>ba3d4cff-d6a0-487d-8428-8001b745e658</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>36f25250-57dd-4e29-8309-99c6bda74246</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Hardwood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The generation of yellow edges can be reduced by adding auxiliary tools.</Remarks>
+  </Materials>
+  <Materials>
+    <id>6e883326-ea3d-4d68-81b3-dc3c268cf4a5</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5c0393de-49a9-486a-a8b3-8c396ee60706</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque</Remarks>
+  </Materials>
+  <Materials>
+    <id>fe814ea7-0689-4b71-b533-ca43b1d3a923</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>eeddf4a3-ad56-433f-9103-cbb591842c6f</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>eb9048f5-7250-4bb5-8376-27c0c5322bc5</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Anodised Aluminium</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b84b812a-b161-435f-a6d8-556b730dbca5</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Plastic Sheet (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Some plastic sheets may be melt.</Remarks>
+  </Materials>
+  <Materials>
+    <id>20f24235-6b1f-48fa-9444-d1c936132e67</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>9734f4da-aec4-4b33-8321-0ed6b672d8d3</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Powder Coated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>6000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>1d63bd78-0268-4d9a-bce0-3d380e402f6a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Plated Metal</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fe935738-b81d-4be7-bc26-ca370e9c6f99</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>suggested 8 lines/mm.Stainless steel will bend and warp when heated.8/mm</Remarks>
+  </Materials>
+  <Materials>
+    <id>9181f0e1-3107-4973-9d0b-0b760bfeb174</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Basswood</Material>
+    <Thickness>7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>1ecf9510-b42c-49b0-abee-a47c723382e4</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Hardwood</Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>The focus before cutting needs to be in the middle of the object to be cut, and the focus is different for different thicknesses.</Remarks>
+  </Materials>
+  <Materials>
+    <id>9cb42d4f-9613-4322-9a6e-711a712b67e5</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Bamboo</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d317f159-7612-4171-b7e3-13ced6da6d1a</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Pay attention to toxic gases!Choose pure black opaque</Remarks>
+  </Materials>
+  <Materials>
+    <id>a5db3889-baba-4eb3-84cd-35395aec9ccf</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Kraft paper</Material>
+    <Thickness>2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>82ab5b68-5b00-457f-bfd9-990c88adac6e</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Leather</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b82e1499-fbb8-49ee-a032-15e6da580782</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Non-woven fabrics (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to burn through, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>4acd934c-cfae-4ddd-b080-74ffd965384b</id>
+    <Visible>true</Visible>
+    <Model>Two Trees TS2-10</Model>
+    <Material>Cotton Cloth (dark color)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Easy to catch fire, pay attention to protection!</Remarks>
+  </Materials>
+  <Materials>
+    <id>f034e0dd-dd79-4280-ba47-2e3dd3edf980</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Basswood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a510528b-56aa-4333-b519-a0ba3142a2c1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Yellow peach wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6207590c-798a-498f-8a1e-a0a7434b6b62</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Mahogany</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>07c40792-da13-46a3-b609-e3167be87209</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>963a44d1-aceb-4263-bfe7-e2c816ad32e1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Paulownia wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>35</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>ade578a6-7400-4a5d-9ab0-e8361fe5eb36</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Bamboo </Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2c942c4a-fd73-4c7d-aed3-10f876945448</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fcdfbd1b-d6c0-42c2-9667-ef5843dd568b</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Denim</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0581aa1f-ff0e-4d12-8d62-272f58eebe72</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Ceramics</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>afe13c4f-78bd-45e2-9cbf-af809776872d</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Ceramic tile</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2c5583bc-2d41-4699-94f7-9936cc2e4816</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Alumina</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a2b15492-5114-469e-a38a-c7aac187f46e</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>4927f9c6-42aa-4bdd-ab82-5e2f0916c10c</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>4a78690e-da68-4465-9710-cd23edc1ac71</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Two color plate</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2440014d-5092-49a3-9f23-c470d2cb0a71</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Plastic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5e5b7f57-3166-47bf-9a6e-0b25bcf26368</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Resin</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8927edda-2b7e-4932-baa2-a128b7dae888</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Artificial beef bone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>24</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2c90bb75-1033-4577-b3ee-334528be0690</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>High density foam board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>12</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2a6ae0f0-7746-4a6d-951b-f5831ce78bba</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Rubber</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8ebf5da0-a112-4cd6-8c70-a4432422acf7</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>14</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>34c5f5ba-2f85-41fb-9cfe-ad9f9a5ad4c9</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Office paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>12</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8b456e34-7a83-454c-9f79-2f5cf0436883</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Oil painting paper</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>25</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>32c38054-2e4c-4947-b83f-4596f0f3e0b1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Carton</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>12</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>c5b79972-2ee9-46af-9d7f-a255263d83ca</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>MDF</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>18</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>249ec3e2-adc4-46c5-b7fc-017d69c80532</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Mirrors</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>paint black for better result</Remarks>
+  </Materials>
+  <Materials>
+    <id>c6d77bd5-b7b8-4886-a786-29b0786df1f5</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Rock</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e7099c59-7d4e-4116-87c5-320bb870634d</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Cobblestone</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8f09b0ee-a980-4b75-9dba-874a9b4e71e2</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>PCB Board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>65</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>03e128bf-192c-4822-bcd3-d9c88a683038</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Mirror Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>600</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>83c5e0e4-ba6b-40df-9cc8-3eb5c2f63587</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Brushed Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e2cd06bc-25ad-43c4-b973-4afeb0415521</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Galvanized iron</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>paint black for better result</Remarks>
+  </Materials>
+  <Materials>
+    <id>13c30727-262e-43e8-b699-cb2edeb288fd</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Iron sheet</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>paint black for better result</Remarks>
+  </Materials>
+  <Materials>
+    <id>04cdb0cb-567b-4001-9a69-467561e64109</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Artificial agate</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>36321582-82f2-4248-beb7-f65317aca0d0</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Basswood</Material>
+    <Thickness>10mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>600</Speed>
+    <Cycles>5</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d74f9533-cf4a-428b-bab6-3d83d36f9b74</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Basswood</Material>
+    <Thickness>8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>de59f10a-7225-45dd-83e6-b514f65a3ebc</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Pine</Material>
+    <Thickness>14mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>300</Speed>
+    <Cycles>7</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>49e8f891-7b58-40fc-879a-8471284c5b3e</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Pine</Material>
+    <Thickness>9mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>120</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>9ddb16d3-cf0e-41e6-8ca1-b37e03e279ef</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Paulownia wood</Material>
+    <Thickness>18mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>400</Speed>
+    <Cycles>6</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a1adc810-1794-4df5-ba34-3c7e08895635</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Paulownia wood</Material>
+    <Thickness>12mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>220</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a396e3bd-b287-42b1-9931-120d6c8efb10</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Cork wood</Material>
+    <Thickness>15mm</Thickness>
+    <Action>Cut</Action>
+    <Power>85</Power>
+    <Speed>700</Speed>
+    <Cycles>2</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0e4fe5f9-0032-4bf0-b3ce-ac822b80d0e8</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Cork wood</Material>
+    <Thickness>10mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>420</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2f985734-0496-447e-bcbb-9d6c7ec3407b</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Bamboo </Material>
+    <Thickness>6mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>400</Speed>
+    <Cycles>3</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>4adb2fa1-1668-47fd-8611-0d12c186f1af</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Bamboo </Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>360</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e90b0497-9dd4-4cfd-af63-027d17412214</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Leather</Material>
+    <Thickness>4mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5b5d3fde-4a74-4446-b686-ef4c16d37085</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Kraft Paper</Material>
+    <Thickness>0.2mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3c76c1de-f651-4a8e-98af-708fc3bda736</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Acrylic</Material>
+    <Thickness>15mm</Thickness>
+    <Action>Cut</Action>
+    <Power>60</Power>
+    <Speed>100</Speed>
+    <Cycles>8</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>280f7d87-5424-4e3b-b8ff-7f907d1a75d1</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Acrylic</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8d817dff-59b0-4e5f-9f34-96a5941dd5fd</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>MDF</Material>
+    <Thickness>8mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>400</Speed>
+    <Cycles>7</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>2bb780aa-bc89-40f4-9320-23e109a99ba7</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>MDF</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>160</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>c7c8be56-d2eb-4ea8-942d-54d4af91f10e</id>
+    <Visible>true</Visible>
+    <Model>Atomstack X20 Pro</Model>
+    <Material>Stainless Steel Sheet</Material>
+    <Thickness>0.05mm</Thickness>
+    <Action>Cut</Action>
+    <Power>80</Power>
+    <Speed>600</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0392f5a4-3494-4290-be31-69bd78c1aefc</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Madera contrachapada</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>db7c65d2-3514-4232-8625-a3d291df9f7c</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Madera contrachapada</Material>
+    <Thickness>1.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>Importante: reducir la velocidad puede provocar llama</Remarks>
+  </Materials>
+  <Materials>
+    <id>ec4f98ec-a372-4911-83c2-d4af7c989685</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Madera contrachapada</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>240</Speed>
+    <Cycles>3</Cycles>
+    <Remarks>Importante: reducir la velocidad puede provocar llama</Remarks>
+  </Materials>
+  <Materials>
+    <id>f75d2877-244e-4ac0-b668-606d4e151392</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Madera contrachapada</Material>
+    <Thickness>5 mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>240</Speed>
+    <Cycles>5</Cycles>
+    <Remarks>Importante: reducir la velocidad puede provocar llama</Remarks>
+  </Materials>
+  <Materials>
+    <id>b37749b8-cc87-4a1c-95de-b8686fb9aad6</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Cartón</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5f1cde7a-db65-456a-985c-304b5755d503</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Cartón</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1000</Speed>
+    <Cycles>3</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>692b692f-60eb-4ab1-8253-2c4b19d2b361</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Papel kraft</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d3c58ea1-a92b-42b8-b644-86fb1706bb99</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Tablero KT (color oscuro)</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>aafca415-e9ae-43be-a258-e09ae0f36503</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Telas no tejidas (color oscuro)</Material>
+    <Thickness>0.5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1600</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>73782648-91bb-48e6-9541-72752e961769</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Tela de algodón (color oscuro)</Material>
+    <Thickness>-</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>1dd57883-3d1c-4448-8f59-be4d95071947</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Cuero</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f7ca02a2-136c-4021-a065-7b7188be423a</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Cuero</Material>
+    <Thickness>0.7mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fa07b55b-0ab0-4d2b-9b06-b3fb7dc16406</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Hoja de plástico (color oscuro)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f491e8c0-50e6-4567-8843-dc51adb851c4</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Madera maciza</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e4e79e95-c35f-4470-a201-1b1c9abeacfa</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Acrílico</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b5157777-6005-4f9e-8d50-beb5c23ff30e</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Metal lacado o pintado con spray</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>ae618ca1-f95b-4911-b530-c5a03b29b59e</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Metal bañado</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>c62f1cef-18d4-4955-bdeb-ec35aba47a9c</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Aluminio anodizado</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>638516d1-930f-46e0-85da-32f1a2c4e8c6</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Piedra mate (Canto rodado)</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>eeec2321-8636-415f-a19b-1e191c3a025c</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Acero INOX crudo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f89642ee-bc1a-405a-9ef5-fed75a49e941</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>FOAM / EVA</Material>
+    <Thickness>2 mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>1200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fa65cc6e-2166-4d7c-bf29-a8879493d727</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>MDF</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>35</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>440e4352-6a55-43a0-b5f6-293b84aa77fb</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>MDF</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>240</Speed>
+    <Cycles>4</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>ad1d6f33-3ef1-49af-a662-76b9f18fc8aa</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>MDF</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>240</Speed>
+    <Cycles>6</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>9778da4e-2ed4-4912-ba76-b7a501449d57</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Neopreno</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>100</Power>
+    <Speed>6000</Speed>
+    <Cycles>3</Cycles>
+    <Remarks>Importante: reducir la velocidad puede provocar llama</Remarks>
+  </Materials>
+  <Materials>
+    <id>c953cb65-9414-41d9-86eb-6afd75581e91</id>
+    <Visible>true</Visible>
+    <Model>LEON3D L40 (5.5W)</Model>
+    <Material>Barro Crudo/Horneado</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>2400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>beaa6ff6-2195-408e-8236-253465053b64</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Brown Craft Board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>cec487c5-54cb-4654-9139-2255593ee032</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0ea330b6-4823-4fbb-936a-4eb2ab962445</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>White Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b293ae8c-afed-493e-a342-39dd1d57bfc6</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Cork</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>716c588b-95d3-40e7-bff8-ce1eab05c4ee</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Mirror</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving mirrors, engrave from the rear.</Remarks>
+  </Materials>
+  <Materials>
+    <id>14db08cf-cd8b-4c82-a7fa-08b511f77919</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Tile</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>95</Power>
+    <Speed>250</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>846d4b6b-1c14-4331-8479-6fffbc46a016</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Cherry Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a1a1dbe3-82ed-4893-af42-dbbfdc768b2d</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>684b98f6-7aa8-4782-a04c-02a2184264e2</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>179e4f6a-7fa3-4be9-8e3c-91d1dac6cad8</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Black Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0d58e54e-33a1-43d6-86a2-ed708af5d226</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Blue Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e1b6a265-aedb-49e5-80c3-8e7a465e093e</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Translucent Red Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>23de062c-c825-42db-9b5d-895dd25c6e9f</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Solid Pink Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f9a30e37-97cd-4f5a-ba29-cc97da9d2053</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Real Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b969ff1f-153a-4dc7-8786-07e154bcc4ab</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 3.5 (2.2W optical)</Model>
+    <Material>Faux Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>628be06a-cc0f-418e-a33e-b1cc96b8eac9</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Brown Craft Board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>40b6b2e7-9546-417e-958f-354046e0c4f1</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5278754d-d4c3-4118-a7ea-8755cc383fbd</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>White Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>06acf85f-f7b8-499e-bf63-5e8d2da62ac3</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Cork</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b31b967f-be22-4210-8198-ff7a62719134</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Mirror</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving mirrors, engrave from the rear.</Remarks>
+  </Materials>
+  <Materials>
+    <id>26a3ac0d-4c86-4d68-9fe9-c9af40380795</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Tile</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>85</Power>
+    <Speed>250</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>98d8e1cf-b231-4476-b13e-d4476d4bcc60</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Slate</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>25</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d9008c2f-7ff8-4a14-a336-ff281aede732</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Cherry Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>68c387c5-13ed-4808-be20-ee936e5ed60b</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d96d4f99-0cbb-4d58-bd1b-17d7485ac7a6</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>cd4e974c-f650-4306-9fa0-195ec8ac3fcd</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Black Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>9d935c3c-1dab-4a22-b179-493e96fbed33</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Blue Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>00217595-af06-4e47-b8f5-3437b3e0bf62</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Translucent Red Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>61adb63a-1683-4090-a126-3548b9465cab</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Solid Pink Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>70</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a4fbdb85-28a1-4865-b14d-c0cedd301059</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Clear Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>100</Power>
+    <Speed>10</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving clear acrylic, mask it first and leave a 2mm gap under it.</Remarks>
+  </Materials>
+  <Materials>
+    <id>ac38538a-ebbb-48cc-842d-6fa99bbc1c85</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Real Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>9aa80a1a-5fcc-4e43-9ec4-60fdcb33685b</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Faux Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3114e0a5-77e4-4ff5-a28f-c75e7d4cbeb2</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 5.5 (3.5W optical)</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>80</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving glass, paint it with black acrylic.</Remarks>
+  </Materials>
+  <Materials>
+    <id>ce4bfb08-9dda-4d37-bc44-0aeea7c54874</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Brown Craft Board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b0534fb3-9b35-4cb3-b824-7a480d20ec3a</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>7886234b-1eef-427d-b2aa-bd8d28a62abd</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>White Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d2ab6789-9df3-467d-8e13-e2ffdd7da4ed</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Cork</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>95aa4167-c219-4e1d-85e9-556c70267c62</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Mirror</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving mirrors, engrave from the rear.</Remarks>
+  </Materials>
+  <Materials>
+    <id>5a60a996-5c24-40e2-ad5c-6c5a1de1341e</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Tile</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>75</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e868a8ef-7c11-46f5-8407-8828fe5875cc</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Slate</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>cb1928a2-b2c7-4f36-a639-150e1dc9a093</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Cherry Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>edba4847-a029-4108-a40e-49a736680ffb</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6c65fd6b-50fa-4205-8c75-3cba5fa16d4d</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>150</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>ed96a6cf-2352-47ed-b573-8eebcdffd6ca</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Black Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d95f144e-e49e-42dd-b841-815d2f111660</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Blue Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a1b6db1d-2b16-42b7-92ee-86d0a30aa860</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Translucent Red Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d979edd8-d9eb-4d97-bc01-0a0741d5a5b0</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Solid Pink Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>983e8fd2-e551-40b0-9817-2a2141542983</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Clear Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving clear acrylic, mask it first and leave a 2mm gap under it.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b283833b-0d01-4113-bfea-42773d57460f</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Real Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>545e48c3-5332-4483-af68-f1e10c9fda73</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Faux Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>80d37643-a95e-42a6-9370-6f61a41a2d03</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving glass, paint it with black acrylic.</Remarks>
+  </Materials>
+  <Materials>
+    <id>bbb97159-2736-4cb7-a6e0-9fe9d9d0ffd1</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Anodized Aluminum</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>40</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>cdc957b5-1b8a-4524-ba0a-dacb175da093</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 15 (6.5W optical)</Model>
+    <Material>Coated Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>60</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>26f9ea17-d27c-40d2-9b56-84f76deff605</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Brown Craft Board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>5</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>8bb01e5b-66fd-4e9f-805a-77c0502ba18e</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>0d78b2d5-b03c-4ea0-84ad-b8b56dfcbd1b</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>White Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b38f4e0e-9c20-4bc4-988c-fccc0e2a2b07</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Cork</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>5</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d1741efc-3a1e-4183-8e92-1bf5c420d47b</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Mirror</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving mirrors, engrave from the rear.</Remarks>
+  </Materials>
+  <Materials>
+    <id>51ba6f2f-fe3c-41c9-bfe1-323030791c63</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Tile</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>75</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5b609b53-f84f-4e0f-ae26-2c99f814bac9</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Slate</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>03215c2c-479e-4146-ad76-b743a5301497</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Cherry Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>ed0f4586-f13b-4790-972c-b96be128407f</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>4161b31b-31d2-4cf3-a024-832f17e51770</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5f918903-4c60-42a3-8507-293c53849127</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Black Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>5</Power>
+    <Speed>550</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5bcac133-df1e-430e-b938-42491f993879</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Blue Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>ae41ecf1-fcdc-4e78-855b-846c56f4e39c</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Translucent Red Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>579ba273-0a17-4186-befb-b42a6fb1815f</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Solid Pink Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>421b7542-48c0-4442-82f9-68533656d500</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Clear Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>50</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving clear acrylic, mask it first and leave a 2mm gap under it.</Remarks>
+  </Materials>
+  <Materials>
+    <id>bbd0faf0-eef4-4507-ae53-a8870b671448</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Real Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>310ffbad-cda1-4e56-af52-b76b73bcd460</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Faux Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>8</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>147d9026-75dd-4559-b3f7-7655a21e4f18</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>50</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving glass, paint it with black acrylic.</Remarks>
+  </Materials>
+  <Materials>
+    <id>821dc2cf-17ce-433e-b12e-144abc9cfb9a</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Anodized Aluminum</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>300</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>97d7d164-6d9c-4e31-b6ca-1f0ccf4f25b4</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 40 (7W optical)</Model>
+    <Material>Coated Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>30</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>fb150ecd-ef9f-4d0c-ad41-c127b083d4a9</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Brown Craft Board</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>5</Power>
+    <Speed>1250</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3869fbcc-9cac-44fe-b58a-cd68bfaf0a66</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>1250</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3648ef7a-285c-4f6e-a23e-07ec251b111a</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>White Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>5c5aad6e-2836-491d-8598-7e032cce364a</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Cork</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>5</Power>
+    <Speed>1450</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>931a21bb-baa0-4cd8-92f4-46e105ac127d</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Mirror</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving mirrors, engrave from the rear.</Remarks>
+  </Materials>
+  <Materials>
+    <id>dd26ac00-b7a7-4b80-b000-c7685bf2e448</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Tile</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>18</Power>
+    <Speed>900</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e9392e08-c340-42bc-8b11-d4d63aa4b65d</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Slate</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>3000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>a04c9244-5038-4176-b37e-b1ea521db368</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Cherry Wood</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>2000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>e11d4a83-1a1f-4af8-ba0a-444a54212db8</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Pine</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>bbc80ac2-0742-48f0-9a12-47661e3e335d</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Bamboo</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>1250</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>90907db4-62f9-474c-9f04-563193d0e259</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Black Card</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>5</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>9a14d79f-6eed-4d07-b428-cca3376fa90f</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Blue Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>7ec13831-eccf-4d75-831d-01be03de7b99</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Translucent Red Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>3fc022e6-4401-408c-8fb1-dde733b6af16</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Solid Pink Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>10</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>bc47cfb6-ef19-4f8b-9d4a-ad4184609de7</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Clear Acrylic</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving clear acrylic, mask it first and leave a 2mm gap under it.</Remarks>
+  </Materials>
+  <Materials>
+    <id>157f6d6b-9749-44d0-a5c4-dee7ad58c801</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Real Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>1000</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>53866ce9-d320-486d-b564-3132b2322634</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Faux Leather</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>1500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>adbe3ce0-e22d-48d4-9b36-a1a43d8eeca5</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Glass</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>20</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks>When engraving glass, paint it with black acrylic.</Remarks>
+  </Materials>
+  <Materials>
+    <id>b92ca71d-0396-415e-a438-5be89a984ddf</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Anodized Aluminum</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>15</Power>
+    <Speed>400</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>f5566e1b-814d-40df-bb8f-13c2b329851b</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Coated Stainless Steel</Material>
+    <Thickness>-</Thickness>
+    <Action>Engrave</Action>
+    <Power>25</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6743330e-1ce6-4f18-9094-fc4ed0af1c8b</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Brown Craft Board</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>45</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>1302379e-f424-431e-8888-c2e6a4c232f0</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>65</Power>
+    <Speed>200</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>b5f3cb57-422d-4ce0-96de-637517a4f920</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Plywood</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>75</Power>
+    <Speed>175</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>76f5c061-6a65-4f8e-b767-b152137f73ff</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>MDF</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>60</Power>
+    <Speed>230</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>16922018-7402-48f4-a0e1-4f197f93d918</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>MDF</Material>
+    <Thickness>5mm</Thickness>
+    <Action>Cut</Action>
+    <Power>75</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>7e4ad477-1b71-4d06-a8fa-853d1c680685</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>White Card</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>40</Power>
+    <Speed>800</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>72323b24-9a83-44c6-adbb-05ba1ef2d51a</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Black Card</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>32</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>263fbb58-f935-4488-9e4c-bc70590cb083</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Translucent Red Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>65</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>79c3e315-fed4-43c2-ac96-8bd2786124ec</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Solid Pink Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>85</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>d874b860-1df0-4d91-90c1-87640158bb5a</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Black Acrylic</Material>
+    <Thickness>3mm</Thickness>
+    <Action>Cut</Action>
+    <Power>70</Power>
+    <Speed>100</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>997fc2c0-4b7d-45f1-9052-355c680d20da</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Real Leather</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>55</Power>
+    <Speed>500</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+  <Materials>
+    <id>6829965a-7e4f-47c4-8d2b-100ae031c709</id>
+    <Visible>true</Visible>
+    <Model>YoraHome 80 (10W optical)</Model>
+    <Material>Faux Leather</Material>
+    <Thickness />
+    <Action>Cut</Action>
+    <Power>40</Power>
+    <Speed>750</Speed>
+    <Cycles>1</Cycles>
+    <Remarks />
+  </Materials>
+</MaterialDB>
