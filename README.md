@@ -21,7 +21,4 @@
 ## Minhas contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=ads-juicy-fresh&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 >>>>>>> 1e7d646ee3f0ea25a1fc91a2c7121e3f257dc62a
-# Arduino
-# SQL
-# SQL_01
-# LaserGRBL
+
