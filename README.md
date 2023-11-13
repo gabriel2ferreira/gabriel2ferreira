@@ -19,6 +19,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabriel2ferreira/dio-lab-open-source)
 ## Minhas contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=ads-juicy-fresh&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriel2ferreira)](https://git.io/streak-stats)
 >>>>>>> 1e7d646ee3f0ea25a1fc91a2c7121e3f257dc62a
 
