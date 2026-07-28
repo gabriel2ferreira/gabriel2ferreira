@@ -93,7 +93,7 @@ class Gabriel:
 
 ### ⚡ Power Solis — Sistema de Monitoramento Elétrico
 
-> Ecossistema completo para monitoramento de inversores solares com IA preditiva, dashboards em tempo real e relatórios automáticos.
+> Ecossistema completo para monitoramento de TCs com IA preditiva, dashboards em tempo real e relatórios automáticos.
 
 | Repositório | Descrição | Tecnologias |
 |---|---|---|
