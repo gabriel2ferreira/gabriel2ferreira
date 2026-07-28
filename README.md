@@ -23,15 +23,16 @@
 
 ```python
 class Gabriel:
-    nome     = "Gabriel de Lima Ferreira"
-    cargo    = "Full-Stack Developer & Network Admin"
+    nome        = "Gabriel de Lima Ferreira"
+    cargo       = "Full-Stack Developer & Network Admin"
     localizacao = "Patos, Paraíba 🇧🇷"
-    foco     = ["Web Apps", "DevOps", "IoT", "Startups"]
+    foco        = ["Web Apps", "DevOps", "IoT", "Startups"]
 
     def projetos_atuais(self):
         return [
-            "⚡ Power Solis — Sistema de Monitoramento Solar",
-            "💧 HydroAI   — Startup de IA para Gestão Hídrica",
+            "⚡ Power Solis   — Sistema de Monitoramento Elétrico",
+            "🌱 Tech.IA        — Plataforma Educacional da Mandacaru Tech",
+            "💧 HydroAI       — Startup de IA para Gestão Hídrica",
         ]
 
     def stack(self):
@@ -79,32 +80,51 @@ class Gabriel:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&theme=tokyonight&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=tokyonight&background=0d1117&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFF&sideNums=FFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=FFF" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=tokyonight-duo&background=0d1117&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=AAAAAA" />
+</div>
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/gabriel2ferreira/dio-lab-open-source">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=dio-lab-open-source&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+<div align="center">
+
+  <a href="https://github.com/gabriel2ferreira/PowerSolis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://github.com/gabriel2ferreira/PowerSolis-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis-AI&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/gabriel2ferreira/PowerSolisplt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolisplt&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  </a>
+
+</div>
+
+> 🌱 **Tech.IA — Plataforma Educacional da Mandacaru Tech** &nbsp;|&nbsp; Projeto privado em desenvolvimento. Plataforma de ensino com IA integrada voltada para educação tecnológica no sertão nordestino.
 
 ---
 
 ## 📈 Gráfico de Atividade
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel2ferreira&bg_color=0d1117&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&area_color=30A3DC&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel2ferreira&bg_color=0d1117&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&area_color=1a1a2e&hide_border=true" />
+</div>
 
 ---
 
@@ -113,5 +133,5 @@ class Gabriel:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriel2ferreira&color=30A3DC&style=flat-square&label=Visualizações+do+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=gabriel2ferreira&color=30A3DC&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil" />
 </p>
