@@ -1,24 +1,117 @@
-# gabriel2ferreira
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gabriel%20de%20Lima%20Ferreira&fontSize=42&fontColor=30A3DC&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20%7C%20Network%20Admin&descAlignY=60&descColor=E94D5F&animation=fadeIn" alt="header" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-de-lima-ferreira-31730b283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_gabrielflima">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/theone_gbr">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/gabrielf1992/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriel-de-lima-ferreira-31730b283/) 
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/gabrielf1992/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/theone_gbr) 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_gabrielflima)
+<br/>
 
-## Habilidades
+## 👨‍💻 Sobre mim
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+```python
+class Gabriel:
+    nome     = "Gabriel de Lima Ferreira"
+    cargo    = "Full-Stack Developer & Network Admin"
+    localizacao = "Patos, Paraíba 🇧🇷"
+    foco     = ["Web Apps", "DevOps", "IoT", "Startups"]
 
+    def projetos_atuais(self):
+        return [
+            "⚡ Power Solis — Sistema de Monitoramento Solar",
+            "💧 HydroAI   — Startup de IA para Gestão Hídrica",
+        ]
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&theme=vision-friendly-dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+    def stack(self):
+        return {
+            "Frontend": ["React", "TypeScript", "HTML5", "CSS3"],
+            "Backend":  ["Python", "JavaScript", "Node.js"],
+            "Database": ["Supabase", "PostgreSQL", "SQL"],
+            "DevOps":   ["Git", "GitHub Actions", "Linux"],
+            "Network":  ["MikroTik RouterOS", "Firewall", "DNS"],
+        }
+```
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]
-## Minhas contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriel2ferreira)](https://git.io/streak-stats)
->>>>>>> 1e7d646ee3f0ea25a1fc91a2c7121e3f257dc62a
+## 🚀 Tech Stack
 
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### ⚙️ Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-823085?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🗄️ Database & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🛠️ DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-CC0000?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&theme=tokyonight&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=tokyonight&background=0d1117&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFF&sideNums=FFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=FFF" />
+</p>
+
+---
+
+## 🔥 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/gabriel2ferreira/dio-lab-open-source">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=dio-lab-open-source&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  </a>
+</p>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel2ferreira&bg_color=0d1117&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&area_color=30A3DC&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriel2ferreira&color=30A3DC&style=flat-square&label=Visualizações+do+perfil" />
+</p>
