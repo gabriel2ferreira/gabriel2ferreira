@@ -1,20 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gabriel%20de%20Lima%20Ferreira&fontSize=42&fontColor=30A3DC&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20%7C%20Network%20Admin&descAlignY=60&descColor=E94D5F&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gabriel%20de%20Lima%20Ferreira&fontSize=42&fontColor=30A3DC&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20%7C%20Network%20Admin&descAlignY=60&descColor=E94D5F&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-lima-ferreira-31730b283/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_gabrielflima">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/theone_gbr">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/gabrielf1992/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/gabriel-de-lima-ferreira-31730b283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_gabrielflima"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/theone_gbr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/gabrielf1992/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -30,9 +22,9 @@ class Gabriel:
 
     def projetos_atuais(self):
         return [
-            "⚡ Power Solis   — Sistema de Monitoramento Elétrico",
-            "🌱 Tech.IA        — Plataforma Educacional da Mandacaru Tech",
-            "💧 HydroAI       — Startup de IA para Gestão Hídrica",
+            "⚡ Power Solis  — Sistema de Monitoramento Elétrico",
+            "🌱 Tech.IA      — Plataforma Educacional da Mandacaru Tech",
+            "💧 HydroAI     — Startup de IA para Gestão Hídrica",
         ]
 
     def stack(self):
@@ -56,7 +48,6 @@ class Gabriel:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### ⚙️ Backend & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -80,59 +71,47 @@ class Gabriel:
 
 ## 📊 GitHub Stats
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" height="180" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&langs_count=8&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" height="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="165" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=tokyonight-duo&background=0d1117&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=AAAAAA" />
+  <img src="https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=tokyonight-duo" />
 </p>
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gabriel2ferreira/PowerSolis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gabriel2ferreira/PowerSolis-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis-AI&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gabriel2ferreira/PowerSolisplt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolisplt&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/🌱%20Tech.IA-Mandacaru%20Tech-3ECF8E?style=for-the-badge" /><br/><br/>
-      <strong>Plataforma Educacional com IA</strong><br/>
-      <sub>Voltada para educação tecnológica no sertão nordestino.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-F2C811?style=flat-square" />
-    </td>
-  </tr>
-</table>
+### ⚡ Power Solis — Sistema de Monitoramento Elétrico
+
+> Ecossistema completo para monitoramento de inversores solares com IA preditiva, dashboards em tempo real e relatórios automáticos.
+
+| Repositório | Descrição | Tecnologias |
+|---|---|---|
+| [**PowerSolis**](https://github.com/gabriel2ferreira/PowerSolis) | Frontend principal da plataforma | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**PowerSolis-AI**](https://github.com/gabriel2ferreira/PowerSolis-AI) | Módulo de IA com análise preditiva e detecção de anomalias | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**PowerSolisplt**](https://github.com/gabriel2ferreira/PowerSolisplt) | Plataforma de integração de relatórios e exibição de dados | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+---
+
+### 🌱 Tech.IA — Plataforma Educacional · Mandacaru Tech
+
+> Plataforma de ensino com Inteligência Artificial integrada, voltada para educação tecnológica no sertão nordestino.
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-F2C811?style=flat-square)
+![Stack](https://img.shields.io/badge/stack-React%20%7C%20Python%20%7C%20Supabase-3ECF8E?style=flat-square)
+![Org](https://img.shields.io/badge/org-Mandacaru%20Tech-CC0000?style=flat-square)
+
+> 🔒 Repositório privado — projeto em desenvolvimento ativo.
 
 ---
 
 ## 📈 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel2ferreira&bg_color=0d1117&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&area_color=1a1a2e&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel2ferreira&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </p>
 
 ---
