@@ -24,7 +24,7 @@ class Gabriel:
         return [
             "⚡ Power Solis  — Sistema de Monitoramento Elétrico",
             "🌱 Tech.IA      — Plataforma Educacional da Mandacaru Tech",
-            "💧 HydroAI     — Startup de IA para Gestão Hídrica",
+            "💧 HydroAI     — Gestão Hídrica com IA · Mandacaru Tech",
         ]
 
     def stack(self):
@@ -110,6 +110,19 @@ class Gabriel:
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-F2C811?style=flat-square)
 ![Stack](https://img.shields.io/badge/stack-React%20%7C%20Python%20%7C%20Supabase-3ECF8E?style=flat-square)
 ![Org](https://img.shields.io/badge/org-Mandacaru%20Tech-CC0000?style=flat-square)
+
+> 🔒 Repositório privado — projeto em desenvolvimento ativo.
+
+---
+
+### 💧 HydroAI — Gestão Hídrica Inteligente · Mandacaru Tech
+
+> Startup de Inteligência Artificial voltada para o monitoramento e gestão sustentável de recursos hídricos no semiárido nordestino. Uma solução da **Mandacaru Tech**.
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-F2C811?style=flat-square)
+![Stack](https://img.shields.io/badge/stack-Python%20%7C%20React%20%7C%20Supabase-4169E1?style=flat-square)
+![Org](https://img.shields.io/badge/org-Mandacaru%20Tech-CC0000?style=flat-square)
+![Tipo](https://img.shields.io/badge/tipo-Startup%20de%20IA-3776AB?style=flat-square)
 
 > 🔒 Repositório privado — projeto em desenvolvimento ativo.
 
