@@ -75,8 +75,12 @@ class Gabriel:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel2ferreira&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel2ferreira&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel2ferreira&theme=tokyonight" />
 </p>
 
 <p align="center">
