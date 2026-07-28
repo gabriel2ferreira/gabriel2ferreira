@@ -80,51 +80,60 @@ class Gabriel:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" height="180" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&langs_count=8&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=false" height="180" />
+    </td>
+  </tr>
+</table>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel2ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel2ferreira&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-
-</div>
-
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=gabriel2ferreira&theme=tokyonight-duo&background=0d1117&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=AAAAAA" />
-</div>
+</p>
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-<div align="center">
-
-  <a href="https://github.com/gabriel2ferreira/PowerSolis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/gabriel2ferreira/PowerSolis-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis-AI&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/gabriel2ferreira/PowerSolisplt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolisplt&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-
-</div>
-
-> 🌱 **Tech.IA — Plataforma Educacional da Mandacaru Tech** &nbsp;|&nbsp; Projeto privado em desenvolvimento. Plataforma de ensino com IA integrada voltada para educação tecnológica no sertão nordestino.
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gabriel2ferreira/PowerSolis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabriel2ferreira/PowerSolis-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolis-AI&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gabriel2ferreira/PowerSolisplt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel2ferreira&repo=PowerSolisplt&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/🌱%20Tech.IA-Mandacaru%20Tech-3ECF8E?style=for-the-badge" /><br/><br/>
+      <strong>Plataforma Educacional com IA</strong><br/>
+      <sub>Voltada para educação tecnológica no sertão nordestino.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-F2C811?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Gráfico de Atividade
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel2ferreira&bg_color=0d1117&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&area_color=1a1a2e&hide_border=true" />
-</div>
+</p>
 
 ---
 
